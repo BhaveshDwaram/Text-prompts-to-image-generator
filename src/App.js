@@ -14,10 +14,10 @@ function App() {
       <main className="p-4">
         <TextToImageGenerator />
       </main>
-      <footer className="bg-gray-900 p-6 text-center relative w-full mt-16" style={{ fontFamily: 'Poppins, sans-serif' }}>
-        <div className="max-w-md mx-auto bg-sky-500 text-white p-6 rounded-lg shadow-lg">
-          <p className="text-2xl font-bold">Built by Bhavesh-Dwaram</p>
-          <p className="text-xl mt-2">NIE ISE-2025</p>
+      <footer className="bg-gray-900 p-3 text-center relative w-full mt-16" style={{ fontFamily: 'Poppins, sans-serif' }}>
+        <div className="max-w-md mx-auto bg-sky-500 text-white p-1 rounded-lg shadow-lg">
+          <p className="text-xl font-bold">Built by Bhavesh-Dwaram</p>
+          <p className="text-l mt-1">NIE ISE-2025</p>
         </div>
       </footer>
     </div>
