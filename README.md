@@ -1,1 +1,1 @@
-### This is a simple react application which takes user prompts and generate images using AI Image Generator  api from RAPID AI website
+### This is a simple react application which takes user prompts and generate images using AI Image Generator  api from RAPID AI website. And the frontend of the application was built with React js and used axios to fetch the data from Ai image generator api .
