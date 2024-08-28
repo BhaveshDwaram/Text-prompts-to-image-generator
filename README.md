@@ -1,1 +1,1 @@
-### This is a simple react application which takes user prompts and generate images using AI Image Generator from RAPID AI
+### This is a simple react application which takes user prompts and generate images using AI Image Generator  api from RAPID AI website
